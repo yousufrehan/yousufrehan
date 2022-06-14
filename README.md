@@ -18,8 +18,8 @@
 <br/>
 <p align="center">
   <img src="https://gpvc.arturio.dev/yousufrehan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/yousufrehan?label=Followers&style=social"> •    -->
-<!--   <img src="https://img.shields.io/github/stars/yousufrehan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/yousufrehan?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/yousufrehan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 #
@@ -64,7 +64,7 @@
 <a href="https://twitter.com/YousufRehan7?s=08" target="_blank">
   <img align="center" alt="yousuf rehan | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/yousuf__rehan//" target="_blank">
+<a href="https://instagram.com/yousuf__rehan?igshid=YmMyMTA2M2Y=" target="_blank">
   <img align="center" alt="yousuf rehan | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="Mdyousuf7620@gmail.com" >
