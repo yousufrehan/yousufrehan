@@ -53,9 +53,14 @@
 
 #
 </p>  
+  
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
+
   </div>
+    
+
+  
 <p align="center">
 <a href="https://www.linkedin.com/in/yousuf-rehan-2b55aa205" target="_blank">
   <img align="center" alt="yousuf rehan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -107,6 +112,10 @@
 <br>
 
 
-#
+<!-- leetcode status -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/kqPNqmMpnBY5P8ygI5/giphy.gif" />
 
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/yousuf_76?theme=nord)
+ 
 
+ 
