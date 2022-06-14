@@ -3,7 +3,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<img align="right" height="190" width="500" alt="GIF" src="https://codeforces-stats-api.herokuapp.com/stats?username=Yousuf_76&theme=2"/>
+<img align="right" height="190" width="500" alt="image" src="https://codeforces-stats-api.herokuapp.com/stats?username=Yousuf_76&theme=2"/>
 <br/>
 
 
