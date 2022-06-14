@@ -1,6 +1,5 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
 <img align="right" height="190" width="500" alt="image" src="https://codeforces-stats-api.herokuapp.com/stats?username=Yousuf_76&theme=2"/>
