@@ -70,7 +70,7 @@
 <a href="Mdyousuf7620@gmail.com" >
   <img align="center" alt="yousuf rehan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/https://www.codechef.com/users/yousuf_76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yousuf_76" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/yousuf_76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yousuf_76" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/yousuf_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/yousuf_76" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/https://leetcode.com/yousuf_76/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yousuf_76/" height="30" width="40" /></a>&nbsp;&nbsp;
 <p>
