@@ -22,15 +22,15 @@
 </p>
 
 #
+<!-- ### 🛠&nbsp;**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**   -->
+ <div align="center">
+  <h3><b>🛠𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂</b></h3>
 
-<img align="left" height="400px" width="400px" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif"/>
+  </div>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://technopulse.decimalpointanalytics.com/static/users/assets/img/banner_student.png"/>
 <br/>
 
-### 🛠&nbsp;**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**  
-
-
-<br/>
-<br/>
+<br/><br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" width="50" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
@@ -53,14 +53,15 @@
 
 #
 </p>  
-  
-  <div align="left">
+ 
+  <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
 
   </div>
-
   
-<p align="left">
+ <br/> <br/>
+  
+<p align="center">
 <a href="https://www.linkedin.com/in/yousuf-rehan-2b55aa205" target="_blank">
   <img align="center" alt="yousuf rehan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
