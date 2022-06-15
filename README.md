@@ -23,7 +23,7 @@
 
 #
 
-<img align="left" height="400px" width="300px" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif"/>
+<img align="left" height="400px" width="400px" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif"/>
 <br/>
 
 ### 🛠&nbsp;**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**  
