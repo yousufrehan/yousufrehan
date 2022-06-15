@@ -29,7 +29,7 @@
 ### 🛠&nbsp;**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**  
 
 
-
+<br/>
 <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,18 +51,16 @@
 
 
 
-<br/>
-
 #
 </p>  
   
-  <div align="center">
+  <div align="left">
   <h3><b>😄 Can Connect With Me On</b></h3>
 
   </div>
-    
+
   
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/yousuf-rehan-2b55aa205" target="_blank">
   <img align="center" alt="yousuf rehan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
