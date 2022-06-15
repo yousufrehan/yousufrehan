@@ -2,7 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
 
-<img align="right" height="190" width="500" alt="image" src="https://codeforces-stats-api.herokuapp.com/stats?username=Yousuf_76&theme=2"/>
+<img align="right" height="180" width="400" alt="image" src="https://codeforces-stats-api.herokuapp.com/stats?username=Yousuf_76&theme=2"/>
 
 <br/>
 
@@ -23,10 +23,12 @@
 
 #
 
-<img align="left" height="400px" width="400px" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif"/>
+<img align="left" height="400px" width="300px" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif"/>
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**  
+### 🛠&nbsp;**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**  
+
+
 
 <br/>
 
@@ -59,7 +61,6 @@
 
   </div>
     
-
   
 <p align="center">
 <a href="https://www.linkedin.com/in/yousuf-rehan-2b55aa205" target="_blank">
