@@ -23,13 +23,13 @@
 
 #
 <!-- ### 🛠&nbsp;**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**   -->
+
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://technopulse.decimalpointanalytics.com/static/users/assets/img/banner_student.png"/>
+<br/>
  <div align="center">
   <h3><b>🛠𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂</b></h3>
 
   </div>
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://technopulse.decimalpointanalytics.com/static/users/assets/img/banner_student.png"/>
-<br/>
-
 <br/><br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,7 +59,7 @@
 
   </div>
   
- <br/> <br/>
+ <br/> 
   
 <p align="center">
 <a href="https://www.linkedin.com/in/yousuf-rehan-2b55aa205" target="_blank">
